@@ -1,2 +1,2 @@
 # yazOkuluOdev
-Yaz okulunda yaptığım ödevler
+C++ ve Algoritma olarak Düzce Üniversitesinin yaz okulundan aldığım Programlama Temelleri dersinde yaptığım ödevlerim.
